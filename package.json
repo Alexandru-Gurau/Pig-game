@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "pig game",
   "scripts": {
-    "start": "--open 'google chrome'"
+    "start": "--open 'google chrome'",
+    "build": "build"
   },
   "author": "Jonas Schmedtmann",
   "license": "ISC"
